@@ -10,7 +10,7 @@ Modified starter code to create a password generator application, which allows t
 
 ## Goals 
 
-* Create an tool that allows the user to easily create a safe password.
+* Create an tool that allows the user to easily generate a safe password.
 
 ## Learning Experience
 
